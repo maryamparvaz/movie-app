@@ -8,8 +8,6 @@ A simple and responsive movie browsing app built with **Next.js**, **TypeScript*
 
 👉 [Click here to view the live demo](https://movie-emu52e3st-maryams-projects-ccda0941.vercel.app/)
 
-_(Replace with your deployed link)_
-
 ---
 
 ## ✨ Features
